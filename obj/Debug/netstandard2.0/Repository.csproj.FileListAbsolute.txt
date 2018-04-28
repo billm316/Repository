@@ -1,0 +1,12 @@
+C:\Users\cs0003875\source\repos\TheracallAPIServer\Repository\obj\Debug\netstandard2.0\Repository.csprojResolveAssemblyReference.cache
+C:\Users\cs0003875\source\repos\TheracallAPIServer\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\cs0003875\source\repos\TheracallAPIServer\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\cs0003875\source\repos\TheracallAPIServer\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+C:\Users\cs0003875\source\repos\TheracallAPIServer\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+C:\Users\cs0003875\source\repos\TheracallAPIServer\Repository\bin\Debug\netstandard2.0\Repository.dll
+C:\Users\cs0003875\source\repos\TheracallAPIServer\Repository\bin\Debug\netstandard2.0\Repository.pdb
+C:\Users\cs0003875\source\repos\TheracallAPIServer\Repository\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cs0003875\source\repos\TheracallAPIServer\Repository\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\cs0003875\source\repos\TheracallAPIServer\Repository\obj\Debug\netstandard2.0\Repository.csproj.CopyComplete
+C:\Users\cs0003875\source\repos\TheracallAPIServer\Repository\obj\Debug\netstandard2.0\Repository.dll
+C:\Users\cs0003875\source\repos\TheracallAPIServer\Repository\obj\Debug\netstandard2.0\Repository.pdb
